@@ -54,7 +54,7 @@ export default function Nav() {
           </Avatar>
         </div>
         <h1 className="text-[42px] font-bold lg:text-start">
-          Hi, i&#39;m Alexander 👋
+          Hi, I&#39;m Tejaswi Pemmasani 👋
         </h1>
         <h2 className="text-xl lg:text-start">
           Product designer, developer, founder.
@@ -85,7 +85,7 @@ export default function Nav() {
       <ul className="flex flex-row gap-6 mt-6 lg:mt-0">
         <Button variant="outline" size="icon">
           <a
-            href="https://github.com/0xAlexander"
+            href="https://github.com/tejs9k"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -94,7 +94,7 @@ export default function Nav() {
         </Button>
         <Button variant="outline" size="icon">
           <a
-            href="https://linkedin.com/in/0xAlexander"
+            href="https://www.linkedin.com/in/tejaswi-pemmasani/"
             target="_blank"
             rel="noopener noreferrer"
           >
