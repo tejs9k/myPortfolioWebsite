@@ -11,19 +11,19 @@ export const metadata: Metadata = {
   alternates: {
     canonical: "https://meikopoulos.com",
   },
-  title: "Alexander Meikopoulos - Product Designer in AI, Web3, and Finance",
+  title: "Tejaswi Pemmasani - Java Full-Stack Developer,Software Engineer",
   description:
-    "Alexander Meikopoulos is a Product designer, developer & founder.",
+    "Tejaswi Pemmasani is a Java Full-Stack Developer,Software Engineer and Cloud Engineer.",
   keywords:
     "Alexander Meikopoulos, Product Designer, AI, Web3, Finance, User Experience, UI/UX Design, Design Systems, Front-end Development, Decentralized Finance, DeFi, Swoop Exchange, Vela Exchange, Stealth AI Startup, Technology, Innovation, Human-Centered Design",
   openGraph: {
     locale: "en_US",
     siteName: "Alexander Meikopoulos",
     type: "website",
-    title: "Alexander Meikopoulos",
+    title: "Tejaswi Pemmasani",
     description:
       "Alexander Meikopoulos is a Product designer, developer & founder.",
-    url: "https://meikopoulos.com",
+    url: "https://www.linkedin.com/in/tejaswi-pemmasani/",
     images: [
       {
         url: "./og-large-meik-2.jpg",
